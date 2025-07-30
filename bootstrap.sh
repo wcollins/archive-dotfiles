@@ -1,4 +1,5 @@
 #! /usr/bin/env bash
+# Need a refactor!
 
 set -o pipefail
 
